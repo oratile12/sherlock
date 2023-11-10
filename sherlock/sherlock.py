@@ -769,6 +769,7 @@ def main():
         print()
     query_notify.finish()
 (dintshe)
+sharelock python3
 
 if __name__ == "__main__":
     main()
