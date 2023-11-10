@@ -768,7 +768,7 @@ def main():
 
         print()
     query_notify.finish()
-
+(dintshe)
 
 if __name__ == "__main__":
     main()
